@@ -1,15 +1,25 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
 .downloadBtn {
-	  background-color: DodgerBlue;
-	  border: none;
-	  color: white;
-	  padding: 12px 30px;
-	  cursor: pointer;
-	  font-size: 20px;
-	}
-	
-	/* Darker background on mouse-over */
-	.downloadBtn:hover {
-	  background-color: RoyalBlue;
-	}
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .downloadBtn:hover {
+    background-color: RoyalBlue;
+  }
+
+  .headerimg{
+    max-width: 100%;
+    height: auto;
+}
+
+.slider-image{
+  max-width: 100%;
+    height: auto;
+}
